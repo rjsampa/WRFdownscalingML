@@ -10,7 +10,7 @@ Algoritmos de treino e de teste
 '''
 
 def test_carregamento():
-    print('teste 2')
+    print('teste 4')
 
 
 class ModelCreate():
@@ -146,7 +146,7 @@ class ModelCreate():
     def fit_batch(self,X_base,x_test,delta, target):
         inicio = datetime.now()
         
-        self.target_base = self.database.get_var_din(target,range=delta)        
+        self.target_base = self.database.get_var_din(target,steps=delta)        
         
         lista = []
         for i in range(self.target_base.shape[0]):

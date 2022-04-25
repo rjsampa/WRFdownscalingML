@@ -1,0 +1,14 @@
+README.md
+setup.py
+WRFdownscalingML/DammaRun.py
+WRFdownscalingML/__init__.py
+WRFdownscalingML/downscaling.py
+WRFdownscalingML/estatisticas.py
+WRFdownscalingML/optimizacao_bayeziana.py
+WRFdownscalingML/posprocessing.py
+WRFdownscalingML/preprocessing.py
+WRFdownscalingML.egg-info/PKG-INFO
+WRFdownscalingML.egg-info/SOURCES.txt
+WRFdownscalingML.egg-info/dependency_links.txt
+WRFdownscalingML.egg-info/requires.txt
+WRFdownscalingML.egg-info/top_level.txt

@@ -100,7 +100,7 @@ class DataBase:
         name: str , default obligatory
             variable name
         
-        range:  tuple , default None
+        steps:  tuple , default None
             temporal range of the variable select
         """        
         if steps is None:
