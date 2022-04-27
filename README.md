@@ -4,7 +4,7 @@ Framework for downscaling WRF output statistics using machine learning algorithm
 
 ## Getting Started
 #### Dependencies
-You need Python 3.7 or later to use **WRFdownscalingML:**. You can find it at [python.org](https://www.python.org/).
+You need Python 3.7 or later to use **WRFdownscalingML:**.
 You also need pandas, numpy, matplotlib and netCDF4 packages, which is available from [PyPI](https://pypi.org). If you have pip, just run:
 ```
 pip install pandas
